@@ -1,6 +1,5 @@
 # Data-Formats-in-Medical-Imaging
 ## Overview
-## Purpose: 
 The notebook demonstrates how to handle DICOM files in Python, specifically working with CT scan images provided by the Cancer Imaging Archive, focusing on loading, visualizing, and processing 2D slices.
 ## Key Libraries Used
 pydicom: For reading and manipulating DICOM files.
