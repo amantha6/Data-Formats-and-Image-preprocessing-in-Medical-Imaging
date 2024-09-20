@@ -23,3 +23,11 @@ Demonstrates how to automatically read a series of DICOM files and convert them 
 Visualizes the 3D MRI volume.
 ## Outputs
 The notebook includes outputs from DICOM metadata, image visualizations in subplots, and examples of pixel array extractions.
+# Medical Image Preprocessing
+## Project Overview
+This repository contains scripts and notebooks for preprocessing medical imaging data, specifically MRI and CT scans. The preprocessing steps covered include normalization, standardization, and visualization of medical images. These procedures are crucial for enhancing image analysis, supporting diagnostic activities, and preparing data for machine learning applications.
+
+## Features
+Normalization: Adjust the data to have a mean of zero and a standard deviation of one.
+Standardization: Scale data to a [0, 1] range based on the minimum and maximum values.
+Visualization: Implement methods to view slices from MRI and CT scans, facilitating a better understanding of underlying anatomical structures.
